@@ -1,0 +1,8 @@
+.bg-pink{
+    background-color: pink;
+}
+
+.navbar-brand img {
+    height : 50px ;
+    border-radius : 10px ; 
+}
